@@ -1,5 +1,7 @@
 # 🔐 Week 1 – Cybersecurity Lab Environment Setup
 
+*This is my first hands-on cybersecurity lab setup, marking the beginning of my practical journey in cybersecurity. Through this exercise, I established my own virtual lab environment using Oracle VirtualBox and Kali Linux to build a foundation for future hands-on security testing and learning.*
+
 ## 📌 Lab Overview
 
 **Week:** 01  
