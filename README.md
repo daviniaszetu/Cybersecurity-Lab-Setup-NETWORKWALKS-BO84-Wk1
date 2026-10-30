@@ -129,13 +129,23 @@ Performed the following checks:
 1. Opened the web browser in Kali Linux and accessed a website to confirm that internet browsing was working.
 2. Opened the terminal and executed the following command to test connectivity and DNS resolution:
 
+ping www.google.com
+
 ![](07-week1-connectivity-test.png)
+
+The successful ping responses confirmed that Kali Linux could resolve the domain name and communicate with an external host.
+
+---
 
 ### Step 8 – Kali Linux Snapshot
 
 After completing the installation, network configuration and connectivity checks, created a snapshot of the Kali Linux virtual machine in Oracle VirtualBox.
 
 The snapshot preserves the working configuration as a baseline restore point, allowing the virtual machine to be restored if future cybersecurity exercises cause unwanted system or configuration changes.
+
+![](08-week1-kali-snapshot.png)
+
+---
 
 ## ✅ 3. Lab Outcome
 
